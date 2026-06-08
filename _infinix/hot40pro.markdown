@@ -2,7 +2,7 @@
 layout: device
 oem: Infinix
 title: "Infinix HOT 40 PRO"
-codename: X6532
+codename: X6837
 downloadfolder: X6837
 maintainer: Juanne
 supportstatus: Current
